@@ -1,0 +1,14 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px;
+    overflow-y: auto;
+}
+
+.save-button{
+    align-self: flex-start;
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+}
